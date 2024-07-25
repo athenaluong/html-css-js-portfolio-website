@@ -165,7 +165,7 @@ section{
 #profile { 
     display: flex;
     justify-content: center;
-    gap: 5rem;
+    gap:5rem;
     height: 80vh; 
 }
 
@@ -229,7 +229,7 @@ section{
     border-radius: 2rem;
 }
 
-.btn-color-1, 
+.btn-color-1 
 .btn-color-2 { 
     border: rgb(53, 53,53) 0.1rem solid;
 }
@@ -251,6 +251,7 @@ section{
 
 .btn-color-2{ 
     background: none; 
+    color: #0066b2;
 }
 
 .btn-color-2:hover { 
